@@ -5,6 +5,7 @@
 Currently focused on mastering **Domain-Driven Design (DDD)** and refining **Object-Oriented Programming (OOP)** for scalable system design.
 
 I have hands-on experience in Quality Assurance (QA) engineering, ensuring the reliability and stability of software systems through testing and validation. In addition, I’ve built several fullstack applications using JavaScript, Java, and Android Studio, covering both frontend and backend development. In the field of machine learning, I’ve worked on projects involving computer vision and tabular data, gaining familiarity with model development, evaluation, and deployment processes. I also have a strong foundation in embedded systems, including work with VHDL, bare-metal circuit designs, and microcontrollers. Feel free to connect with me on LinkedIn or via email I’m always open to collaboration, conversation, and growth. 
+
 ---
 
 ## Tech Stack
@@ -22,13 +23,19 @@ I have hands-on experience in Quality Assurance (QA) engineering, ensuring the r
 ![VHDL](https://img.shields.io/badge/VHDL-8B008B?style=flat)
 
 ---
+### Frameworks
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) (currently learning)
+![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ### Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-007ACC?style=flat)
@@ -38,9 +45,9 @@ I have hands-on experience in Quality Assurance (QA) engineering, ensuring the r
 ## Experienced Domains
 
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-1f6feb?style=flat&logo=github&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Software%20Testing-6DB33F?style=flat)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Software Testing](https://img.shields.io/badge/Software%20Testing-6DB33F?style=flat)
 ![Networking](https://img.shields.io/badge/Computer%20Networking-00A8E8?style=flat)
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-8A2BE2?style=flat)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=flat)
@@ -48,6 +55,5 @@ I have hands-on experience in Quality Assurance (QA) engineering, ensuring the r
 
 ---
 ## Contact
-## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wendy%20Dharmawan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wendydharmawan/)
 [![Email](https://img.shields.io/badge/Email-wndydr235@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wndydr235@gmail.com)
