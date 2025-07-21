@@ -4,6 +4,9 @@
 
 Currently focused on mastering **Domain-Driven Design (DDD)** and refining **Object-Oriented Programming (OOP)** for scalable system design.
 
+I have hands-on experience in **Quality Assurance (QA) engineering**, ensuring the reliability and stability of software systems through testing and validation. In addition, I’ve built several **fullstack applications** using **JavaScript**, **Java**, and **Android Studio**, covering both frontend and backend development.
+In the field of **machine learning**, I’ve worked on projects involving **computer vision** and **tabular data**, gaining familiarity with model development, evaluation, and deployment processes. I also have a strong foundation in **embedded systems**, including work with **VHDL**, **bare-metal circuit desings**, and **microcontrollers**. 
+Feel free to connect with me on LinkedIn or via email—I’m always open to collaboration, conversation, and growth.
 ---
 
 ## Tech Stack
@@ -34,7 +37,9 @@ Currently focused on mastering **Domain-Driven Design (DDD)** and refining **Obj
 
 ---
 
-## Domains
+## Experienced Domains
+
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-1f6feb?style=flat&logo=github&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Software Testing](https://img.shields.io/badge/Software%20Testing-6DB33F?style=flat)
@@ -42,5 +47,9 @@ Currently focused on mastering **Domain-Driven Design (DDD)** and refining **Obj
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-8A2BE2?style=flat)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=flat)
 
----
 
+---
+## Contact
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wendy%20Dharmawan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wendydharmawan/)
+[![Email](https://img.shields.io/badge/Email-wndydr235@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wndydr235@gmail.com)
