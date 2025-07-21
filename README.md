@@ -4,9 +4,9 @@
 
 Currently focused on mastering **Domain-Driven Design (DDD)** and refining **Object-Oriented Programming (OOP)** for scalable system design.
 
-I have hands-on experience in **Quality Assurance (QA) engineering**, ensuring the reliability and stability of software systems through testing and validation. In addition, I’ve built several **fullstack applications** using **JavaScript**, **Java**, and **Android Studio**, covering both frontend and backend development.
+**I have hands-on experience in **Quality Assurance (QA) engineering**, ensuring the reliability and stability of software systems through testing and validation. In addition, I’ve built several **fullstack applications** using **JavaScript**, **Java**, and **Android Studio**, covering both frontend and backend development.
 In the field of **machine learning**, I’ve worked on projects involving **computer vision** and **tabular data**, gaining familiarity with model development, evaluation, and deployment processes. I also have a strong foundation in **embedded systems**, including work with **VHDL**, **bare-metal circuit desings**, and **microcontrollers**. 
-Feel free to connect with me on LinkedIn or via email—I’m always open to collaboration, conversation, and growth.
+Feel free to connect with me on LinkedIn or via email—I’m always open to collaboration, conversation, and growth.**
 ---
 
 ## Tech Stack
