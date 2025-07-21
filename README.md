@@ -2,7 +2,7 @@
 
  I'm an undergraduate in **Computer Engineering** passionate about **Software Engineering**, **Machine Learning**, and **IoT / Embedded Systems**.
 
-Currently focused on mastering **Domain-Driven Design (DDD)** and refining **Object-Oriented Programming (OOP)** for scalable system design.
+Currently focused on mastering **BootStrap**, **Domain-Driven Design (DDD)** and refining **Object-Oriented Programming (OOP)** for scalable system design.
 
 I have hands-on experience in Quality Assurance (QA) engineering, ensuring the reliability and stability of software systems through testing and validation. In addition, I’ve built several fullstack applications using JavaScript, Java, and Android Studio, covering both frontend and backend development. In the field of machine learning, I’ve worked on projects involving computer vision and tabular data, gaining familiarity with model development, evaluation, and deployment processes. I also have a strong foundation in embedded systems, including work with VHDL, bare-metal circuit designs, and microcontrollers. Feel free to connect with me on LinkedIn or via email I’m always open to collaboration, conversation, and growth. 
 
@@ -27,8 +27,8 @@ I have hands-on experience in Quality Assurance (QA) engineering, ensuring the r
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) (currently learning)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ### Tools & Technologies
